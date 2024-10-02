@@ -1,18 +1,19 @@
 <DOCTYPE html>
 <html>
-    <head>
-               <title>My Subjects</title>
+          <head>
+                   <title>My Subjects</title>
 
                    <meta charset="UTF-8">
                    <meta name="author" content= "Jhielou Marie S. Mamaradlo">
                    <meta name="keywords" content= "Lab Excersice 3"> 
                    <meta name="revised" content= "10-03-2024">
+
           </head>
           <body>
-                 <h1>My Favorite Subjects</h1>
+                      <h1>My Favorite Subjects</h1>
 
                      <table style="border: 1px solid black">
-                         <tr>
+                      <tr>
                                 <th rowspan="2" style="border: 1px solid black;"> Subjects </th>
                                 <th colspan="2" style="border: 1px solid black;"> Thoughts </th>
                      </tr>
