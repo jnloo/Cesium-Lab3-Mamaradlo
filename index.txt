@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Rie's Gaming Profile </title>
+    
+	<meta charset="UTF-8">
+    <meta name="author" content="Jhielou Marie S. Mamaradlo">
+    <meta name="keywords" content="Lab Exercise 2">
+    <meta name="date-submitted" content="11-09-2024">
+  </head>
+
+     <body>
+        <div>
+		<h1> Rie's Profile! </h1>
+		<p> Here some details about me! </p>
+		
+	 <a href="Games.html"> Click this to know my favorite game! <3 </a>
+	   
+	    </div>
+	   </body>
+
+</html>

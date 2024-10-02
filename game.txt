@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+      <head>    
+            <title> Roblox </title>
+            
+            <meta charset="UTF-8">
+            <meta name="author" content="Jhielou Marie S. Mamaradlo">
+            <meta name="keywords" content="Lab Exercise 2">
+            <meta name="date-submitted" content="11-09-2024">  
+     
+			<link rel="icon" href="icon.png" types="image/gif">
+			
+     </head>
+     <body> 
+           <div>	   
+             <h1> ROBLOX </h1>
+			 <img src="roblox.png" alt="logo of Roblox"  height="150px">
+             <p> Roblox was initially introduced in 2006, but in the intervening years, it has grown to become one of the most well-known virtual playgrounds worldwide. Roblox is primarily a gaming platform that lets you use Roblox Studio to develop your own games or enjoy dozens of other people's creations in game. </p>
+	       </div>
+	   <span>	   
+		   <h3> 5 reasons why this game is my Favorite: </h3>
+		   <ul>
+		      <li> Reason 1 : This game has diverse social system which lets you talk to people online and make new friends.</li>
+			  <li> Reason 2 : This game is not just more than a game it has a lot of games inside the game or website it self! </li>
+			  <li> Reason 3 : This game is where I personally met my first ever online friends, we're friends and are going strong for four years now. </li>
+			  <li> Reason 4 : This game was my go-to anti boredom game during pandemic, it's not just a game, it is a part of my childhood. </li>
+			  <li> Reason 5 : This game is overall amazing, play now! </li>
+		   </ul>		   
+	   </span>
+	         <h3>Here are some screenshots of the game:</h3></span>
+	      <img src="roblox1.png"  height="200px">
+	      <img src="roblox2.png"  height="200px">
+	      <img src="roblox3.png"  height="200px">
+			  
+	      <p> Copyright &#169 : Jhielou Marie Suarez Mamaradlo 9-Cesium. </p>		   
+     </body>
+</html>
+	 
