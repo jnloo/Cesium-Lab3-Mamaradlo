@@ -1,47 +1,62 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
-          <head>
-                   <title>My Subjects</title>
+<head>
+    <title>My Subjects</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Jhielou Marie S. Mamaradlo">
+    <meta name="keywords" content="Lab Exercise 3">
+    <meta name="revised" content="10-03-2024">
+    <style>
+        body {
+            background-color: pink;
+            color: black; /* default text color for the rest of the page */
+        }
+        table {
+            border: 1px solid black;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            text-align: center;
+        }
+        /* Styling for Computer Science and Social Science rows */
+        td[style*="background-color:Blue"], 
+        td[style*="background-color:Red"] {
+            background-color: white;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>My Favorite Subjects</h1>
 
-                   <meta charset="UTF-8">
-                   <meta name="author" content= "Jhielou Marie S. Mamaradlo">
-                   <meta name="keywords" content= "Lab Excersice 3"> 
-                   <meta name="revised" content= "10-03-2024">
-                   <style>
-
-          </head>
-          <body>
-                      <h1>My Favorite Subjects</h1>
-
-                     <table style="border: 1px solid black">
-                      <tr>
-                                <th rowspan="2" style="border: 1px solid black;"> Subjects </th>
-                                <th colspan="2" style="border: 1px solid black;"> Thoughts </th>
-                     </tr>
-
-                     <tr>
-                           <th style="border: 1px solid black;"> What I like about the subject </th>
-                           <th style="border: 1px solid black;"> Color </th>
-                     </tr>
-
-                     <tr>
-                            <td style="border: 1px solid black;background-color:Blue"> Computer Science </td>
-                            <td style="border: 1px solid black;background-color:Blue"> ComSci because a cool subject with the coolest teachers ever. </td>
-                            <td style="border: 1px solid black;background-color:Blue"> Blue because ComSci reminds me of blue whenever we have to highlight then copy and paste a text for the code. </td>
-                     </tr>
-
-
-                      <tr>
-                            <td style="border: 1px solid black;background-color:Red"> Social Science </td>
-                            <td style="border: 1px solid black;background-color:Red"> SocSci because it's my day one subject since grade seven. </td>
-                            <td style="border: 1px solid black;background-color:Red"> Red because it reminds me of the bloody history of our past. </td>
-                      </tr>
-
-                      <tr>
-                            <td style="border: 1px solid black;background-color:Yellow"> Chemistry </td>
-                            <td style="border: 1px solid black;background-color:Yellow"> Chem because since I.S one and two chem is my passion. </td>
-                            <td style="border: 1px solid black;background-color:Yellow"> Yellow because the subject and the teacher is a ray of sunshine. </td>
-                       </tr> 
-               </table>
-         </body> 
- </html>
+    <table>
+        <tr>
+            <th rowspan="2">Subjects</th>
+            <th colspan="2">Thoughts</th>
+        </tr>
+        <tr>
+            <th>What I like about the subject</th>
+            <th>Color</th>
+        </tr>
+        <tr>
+            <td style="background-color:Blue">Computer Science</td>
+            <td>ComSci because it's a cool subject with the coolest teachers ever.</td>
+            <td>Blue because ComSci reminds me of blue whenever we have to highlight then copy and paste text for the code.</td>
+        </tr>
+        <tr>
+            <td style="background-color:Red">Social Science</td>
+            <td>SocSci because it's been my day one subject since grade seven.</td>
+            <td>Red because it reminds me of the historical significance and struggles.</td>
+        </tr>
+        <tr>
+            <td style="background-color:Yellow">Chemistry</td>
+            <td>Chem because since I.S one and two, chem has been my passion.</td>
+            <td>Yellow because the subject and the teacher are like a ray of sunshine.</td>
+        </tr>
+    </table>
+</body>
+</html>
