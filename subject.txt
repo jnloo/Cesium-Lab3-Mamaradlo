@@ -4,22 +4,22 @@
                <title>My Subjects</title>
 
                    <meta charset="UTF-8">
-                   <meta name="author" content="Jhielou Marie S. Mamaradlo">
-                   <meta name="keywords" content="Lab Excersice 3"> 
-                   <meta name="revised" content="10-03-2024">
+                   <meta name="author" content= "Jhielou Marie S. Mamaradlo">
+                   <meta name="keywords" content= "Lab Excersice 3"> 
+                   <meta name="revised" content= "10-03-2024">
           </head>
           <body>
                  <h1>My Favorite Subjects</h1>
 
                      <table style="border: 1px solid black">
                          <tr>
-                                <th rowspan="2" style="border: 1px solid black;">Subjects</th>
-                                <th colspan="2" style="border: 1px solid black;">Thoughts</th>
+                                <th rowspan="2" style="border: 1px solid black;"> Subjects </th>
+                                <th colspan="2" style="border: 1px solid black;"> Thoughts </th>
                      </tr>
 
                      <tr>
-                           <th style="border: 1px solid black;">What I like about the subject</th>
-                           <th style="border: 1px solid black;">Color</th>
+                           <th style="border: 1px solid black;"> What I like about the subject </th>
+                           <th style="border: 1px solid black;"> Color </th>
                      </tr>
 
                      <tr>
@@ -32,13 +32,13 @@
                       <tr>
                             <td style="border: 1px solid black;background-color:Red"> Social Science </td>
                             <td style="border: 1px solid black;background-color:Red"> SocSci because it's my day one subject since grade seven. </td>
-                            <td style="border: 1px solid black;background-color:Red">Red because it reminds me of the bloody history of our past. </td>
+                            <td style="border: 1px solid black;background-color:Red"> Red because it reminds me of the bloody history of our past. </td>
                       </tr>
 
                       <tr>
                             <td style="border: 1px solid black;background-color:Yellow"> Chemistry </td>
                             <td style="border: 1px solid black;background-color:Yellow"> Chem because since I.S one and two chem is my passion. </td>
-                            <td style="border: 1px solid black;background-color:Yellow"> Yellow because the subject and the teacher reminds me of a sunshine. </td>
+                            <td style="border: 1px solid black;background-color:Yellow"> Yellow because the subject and the teacher is a ray of sunshine. </td>
                        </tr> 
                </table>
          </body> 
